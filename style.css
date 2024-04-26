@@ -24,14 +24,13 @@ button {
     padding-right: 15px;
     padding-top: 8px;
     padding-bottom: 8px;
+    transition: all 0.3s;
 }
 button:hover {
     background-color: lightgray;
     color: black;
-    transition: 0.3s;
 }
 button:active {
     background-color: darkgray;
     color: black;
-    transition: 0.3s;
 }
